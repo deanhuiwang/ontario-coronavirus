@@ -1,0 +1,19 @@
+﻿Date,Ontario Cases,Cases Since Feb 23,Days since start,Days Since Feb 23,Day Gap,Adjusted Growth,Source
+25-Jan,1,-2,0,-29,,,https://news.ontario.ca/mohltc/en/2020/01/ontario-confirms-first-case-of-wuhan-novel-coronavirus.html
+27-Jan,2,-1,2,-27,2,,https://news.ontario.ca/mohltc/en/2020/01/ontario-confirms-second-presumptive-case-of-wuhan-novel-coronavirus.html
+31-Jan,3,0,6,-23,4,,https://news.ontario.ca/mohltc/en/2020/01/ontario-confirms-third-case-of-2019-novel-coronavirus.html
+23-Feb,4,1,29,0,23,,https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-presumptive-case-of-covid-19.html
+26-Feb,5,2,32,3,3,25.99%,https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-presumptive-case-of-covid-19-1.html
+27-Feb,6,3,33,4,1,50.00%,https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-positive-case-of-covid-19.html
+28-Feb,8,5,34,5,1,66.67%,https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-new-positive-case-of-covid-19.html
+29-Feb,11,8,35,6,1,60.00%,https://www.cbc.ca/news/canada/toronto/ontario-coronavirus-cases-1.5481218
+01-Mar,15,12,36,7,1,50.00%,https://www.cbc.ca/news/canada/toronto/new-coronavirus-cases-ontario-1.5481839
+02-Mar,18,15,37,8,1,25.00%,https://www.cbc.ca/news/canada/toronto/covid-19-toronto-march-2-1.5482173
+03-Mar,20,17,38,9,1,13.33%,https://www.cbc.ca/news/canada/toronto/ontario-new-coronavirus-cases-1.5483619
+05-Mar,23,20,40,11,2,8.47%,https://www.cbc.ca/news/canada/toronto/ontario-confirms-3-new-cases-coronavirus-1.5486670
+06-Mar,28,25,41,12,1,25.00%,https://www.cbc.ca/news/canada/toronto/coronavirus-toronto-covid-19-1.5488057
+08-Mar,32,29,43,14,2,7.70%,https://www.cbc.ca/news/canada/toronto/ontario-three-new-coronavirus-cases-1.5490410
+10-Mar,37,34,45,16,2,8.28%,https://www.cbc.ca/news/canada/toronto/ontario-new-coronavirus-case-1.5492345
+11-Mar,42,39,46,17,1,14.71%,https://www.cbc.ca/news/canada/toronto/ontario-41-cases-covid-19-1.5493715
+12-Mar,60,57,47,18,1,46.15%,https://www.cbc.ca/news/canada/toronto/ontario-coronavirus-screening-centres-covid-19-1.5495010
+13-Mar,79,76,48,19,1,33.33%,https://globalnews.ca/news/6671583/ontario-coronavirus-covid19-cases-march-13/
