@@ -4,6 +4,7 @@ exponential curve to the data.
 
 ## Graph
 Plot as of March 16, 2020.
+
 ![Graph of Ontario COVID-19 Cases](https://github.com/deanhuiwang/ontario-coronavirus/blob/master/img/2020-03-16.png)
 
 ## Prediction
