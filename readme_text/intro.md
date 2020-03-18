@@ -10,9 +10,3 @@ I used these sources for the number of confirmed COVID-19 cases:
 
 See `OntarioCoronavirus.xlsx` or `OntarioCoronavirus.csv` for the source
 articles for each data point.
-
-## Graph
-![Graph of Ontario COVID-19 Cases](https://github.com/deanhuiwang/ontario-coronavirus/blob/master/img/2020-03-17.png)
-
-## Prediction
-Exponential prediction for the next day: 255 confirmed cases
