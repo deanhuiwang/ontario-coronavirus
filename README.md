@@ -16,3 +16,6 @@ articles for each data point.
 
 ## Prediction
 Exponential prediction for the next day: 320 confirmed cases
+
+
+##Predictions For March 26, 2020
