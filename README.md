@@ -18,4 +18,9 @@ articles for each data point.
 Exponential prediction for the next day: 320 confirmed cases
 
 
-##Predictions For March 26, 2020
+## Forecast For Cornavirus
+
+![March 23, 2020](https://github.com/selvadurai/ontario-coronavirus/blob/master/img/2020-03-23.png)
+
+![March 26, 2020](https://github.com/selvadurai/ontario-coronavirus/blob/master/img/2020-03-26.png)
+
