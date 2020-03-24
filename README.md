@@ -12,9 +12,9 @@ See `OntarioCoronavirus.xlsx` or `OntarioCoronavirus.csv` for the source
 articles for each data point.
 
 ## Graph
-![Graph of Ontario COVID-19 Cases](https://github.com/deanhuiwang/ontario-coronavirus/blob/master/img/2020-03-23.png)
+![Graph of Ontario COVID-19 Cases](https://github.com/deanhuiwang/ontario-coronavirus/blob/master/img/2020-03-24.png)
 
 ## Prediction
-Exponential prediction for the next day: 607 confirmed cases
+Exponential prediction for the next day: 705 confirmed cases
 
-Logistic prediction for the next day: 572 confirmed cases
+Logistic prediction for the next day: 668 confirmed cases
