@@ -17,3 +17,4 @@ articles for each data point.
 ## Prediction
 Exponential prediction for the next day: 16681 confirmed cases
 
+Logistic prediction for the next day: 14382 confirmed cases
